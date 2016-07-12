@@ -33,7 +33,7 @@ this will generate a results .mat file.
 
 To plot the results run,
 
-> julia comparison_plot.jl <results.mat> gaussian
+> julia comparison_plot.jl results.mat gaussian
 
 (here gaussian refers to the dataset name which is set to "gaussian" by default).
 The second command will plot the results for comparison.
