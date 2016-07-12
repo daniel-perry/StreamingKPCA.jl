@@ -10,8 +10,11 @@ Mina Ghashami, Daniel J. Perry, and Jeff M. Phillips. "Streaming Kernel Principa
 ### Prerequisites
 These three unregistered julia packages implement various prerequisites such as Frequent Directions (FD), Random Fourier Features (RFF), and the Gaussian (RBF) kernel.
 They can be installed by launching the julia prompt and running the following commands:
+
 > Pkg.clone("git@github.com:daniel-perry/Sketch.jl.git")
+
 > Pkg.clone("git@github.com:daniel-perry/RandomFourierFeatures.jl.git")
+
 > Pkg.clone("git@github.com:daniel-perry/Kernel.jl.git")
 
 ### Install StreamingKPCA
