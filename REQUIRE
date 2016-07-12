@@ -1,4 +1,4 @@
 julia 0.4
-git@github.com:daniel-perry/RandomFourierFeatures.jl.git
-git@github.com:daniel-perry/Sketch.jl.git
-git@github.com:daniel-perry/Kernel.jl.git
+RandomFourierFeatures
+Sketch
+Kernel
